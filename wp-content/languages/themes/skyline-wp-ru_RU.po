@@ -1,0 +1,153 @@
+# Translation of Themes - Skyline WP in Russian
+# This file is distributed under the same license as the Themes - Skyline WP package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-10-23 12:15:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Skyline WP\n"
+
+#. Description of the theme
+msgid "Skyline WP is a beautiful, very customizable, multipurpose theme that you can use to create amazing websites through drag and drop. It comes with a pre-designed home page, 5 header designs and over 35 ready-to-use content blocks that you can easily customize. You can also design your own custom blocks by combining more than 25 drag and drop components. Skyline WP offers lots of customization options (video background, slideshow background, header content types, etc) to help you create a website that stands out in no time. It is also designed with responsiveness, to work on mobile devices right out of the box. Skyline WP is the only theme you will ever need! CHECK OUT THE DEMOS: https://colibriwp.com/go/skyline-demos"
+msgstr "Skyline WP — прекрасная, очень настраиваемая, многоцелевая тема, которую вы можете использовать для создания замечательных сайтов с помощью перетаскивания. Она поставляется с предварительно настроенной домашней страницей, 5 дизайнами заголовков и более, чем 35 готовыми к использованию блоками для контента, которые можно легко настраивать. Вы можете создать свой собственный блок, комбинируя более, чем 25 компонентов, методом перетаскивания. Skyline WP предлагает множество вариантов настройки (фоновое видео, фоновые слайды, типы контента заголовков и т.д.), чтобы помочь вам создать выдающийся сайт за короткое время. Тема создана отзывчивой, чтобы работать на мобильных устройствах прямо из коробки. Skyline WP — это единственная тема, которая  когда-либо понадобится вам! ЗАЦЕНИТЕ ДЕМО: https://colibriwp.com/go/skyline-demos"
+
+#. Theme Name of the theme
+msgid "Skyline WP"
+msgstr "Skyline WP"
+
+#: inc/defaults.php:12
+msgid "Don't wait for opportunities. <br/><em style=\"font-weight: 600;\">Create them!</em>"
+msgstr "Не ждите возможностей. <br/><em style=\"font-weight: 600;\">Создавайте их!</em>"
+
+#: inc/defaults.php:11 inc/defaults.php:53
+msgid "Start creating your website today!"
+msgstr "Начните создавать ваш сайт уже сегодня!"
+
+#: functions.php:59
+msgid "%s is easy to learn and master, but you can always check out our documentation to learn about some features you might have missed."
+msgstr "%s легко изучить и освоить, но вы всегда можете ознакомиться с нашей документацией, чтобы узнать о функциях, которые вы, возможно, пропустили."
+
+#: functions.php:50
+msgid "%1$s plugin adds drag and drop functionality and many other features to the %2$s theme."
+msgstr "Плагин %1$s предоставляет функционал редактирования с помощью перетаскивания, а также ряд других функций для темы %2$s."
+
+#: functions.php:48
+msgid "%s Settings"
+msgstr "Настройки %s"
+
+#: admin/admin-notice.php:71
+msgid "This action will also install the Colibri Page Builder plugin."
+msgstr "Это действие также установит плагин Colibri Page Builder."
+
+#: admin/admin-notice.php:59
+msgid "Maybe Later"
+msgstr "Может позже"
+
+#: admin/admin-notice.php:55
+msgid "Install the Skyline WP homepage"
+msgstr "Установить домашнюю страницу Skyline WP"
+
+#: admin/admin-notice.php:50
+msgid "Would you like to install the pre-designed Skyline WP homepage?"
+msgstr "Хотите ли установить, предварительно разработанную, домашнюю страницу Skyline WP?"
+
+#: template-parts/main/404.php:24
+msgid "Go to Homepage!"
+msgstr "Вернуться на главную!"
+
+#: template-parts/main/404.php:15
+msgid "Sorry, page not found!"
+msgstr "Извините, страница не найдена!"
+
+#: template-parts/main/404.php:9
+msgid "404"
+msgstr "404"
+
+#: template-parts/main/archive_item_template.php:54
+msgid "comment(s)"
+msgstr "комментариев"
+
+#: template-parts/main/archive_item_template.php:38
+#: template-parts/main/archive_item_template.php:46
+msgid "/"
+msgstr "/"
+
+#: template-parts/main/search_item_template.php:49
+#: template-parts/main/archive_item_template.php:71
+msgid "read more"
+msgstr "читать далее"
+
+#: template-parts/main/search_item_template.php:29
+msgid "on"
+msgstr "on"
+
+#: template-parts/main/search_item_template.php:20
+msgid "by"
+msgstr "от"
+
+#: template-parts/main/post.php:23
+msgid "{COMMENTS-COUNT} Responses"
+msgstr "{COMMENTS-COUNT} ответов"
+
+#: template-parts/main/post.php:22
+msgid "One response"
+msgstr "Один ответ"
+
+#: template-parts/main/post.php:21
+msgid "No responses yet"
+msgstr "Пока без ответов"
+
+#: template-parts/layout-wrapper-content/navigation-container-2.php:11
+msgid "Previous"
+msgstr "Назад"
+
+#: template-parts/layout-wrapper-content/navigation-container-1.php:28
+msgid "Next post"
+msgstr "Следующая запись"
+
+#: template-parts/layout-wrapper-content/navigation-container-1.php:27
+msgid "Previous post:"
+msgstr "Предыдущая запись:"
+
+#: template-parts/layout-wrapper-content/navigation-container-1.php:11
+msgid "Next post:"
+msgstr "Следующая запись:"
+
+#: template-parts/layout-wrapper-content/navigation-container-1.php:10
+msgid "Previous post"
+msgstr "Предыдущая запись"
+
+#: template-parts/layout-wrapper-content/navigation-container-3.php:11
+#: template-parts/layout-wrapper-content/navigation-container-3.php:37
+#: template-parts/layout-wrapper-content/navigation-container-2.php:37
+msgid "Back"
+msgstr "Назад"
+
+#: template-parts/layout-wrapper-content/navigation-container-3.php:10
+#: template-parts/layout-wrapper-content/navigation-container-3.php:36
+#: template-parts/layout-wrapper-content/navigation-container-2.php:10
+#: template-parts/layout-wrapper-content/navigation-container-2.php:36
+msgid "Next"
+msgstr "Следующий"
+
+#: template-parts/layout-wrapper-content/tags-container-1.php:9
+msgid "Tags:"
+msgstr "Метки:"
+
+#: template-parts/layout-wrapper-content/categories-container-1.php:9
+#: template-parts/layout-wrapper-content/categories-container-3.php:9
+#: template-parts/layout-wrapper-content/categories-container-2.php:9
+msgid "Categories:"
+msgstr "Рубрики:"
+
+#. Author URI of the theme
+msgid "https://extendthemes.com/"
+msgstr "https://extendthemes.com/"
+
+#. Author of the theme
+msgid "Extend Themes"
+msgstr "Extend Themes"
